@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Job Match",
+  "description": "Deep eligibility matching (education, age, physicals, category-relaxation) and tracking for Indian government job aspirants, powered by local persistence and AI pipeline parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
